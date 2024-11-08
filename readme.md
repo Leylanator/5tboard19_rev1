@@ -8,7 +8,7 @@ This is a prototype handwired project using a Pro Micro (Atmega32u4).
 If you don't want to alter anything, I recommend soldering the columns and rows the exact way the schematic assumes.
 
 * Keyboard Maintainer: [LEYLA](https://github.com/Leylanator)
-* Hardware Supported: Arduino Pro Micro (Atmega32u4
+* Hardware Supported: Arduino Pro Micro (Atmega32u4)
 * What you will need for this project: 1× Pro Micro, 1× Reset Switch, 19× Keyswitches, 1× Custom Plate* , 1× GH60 Case.
 
 * I provide .dxf CAD files for the plate, it will fit GH60 (standard 60%) cases, and will support multiple keyswitch footprints - such as Cherry MX1A, ALPS SKCM, Kailh Choc 2, etc.
